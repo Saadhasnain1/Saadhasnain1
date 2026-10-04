@@ -40,5 +40,4 @@
 ### 🏆 Certifications
 
 * **Data Science with Machine Learning** – *Nodebook (Private) Limited* (Dec 2023)
-* **Participation in Whales FNF GALA'21** – *Whales College* (Jan 2021)
-* **Video Editing** – *Whales College* (Jan 2021)
+
